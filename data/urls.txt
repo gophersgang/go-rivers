@@ -1,3 +1,8 @@
+https://github.com/bmkessler/streamstats
+https://github.com/brentp/irelate
+https://github.com/cloudfoundry/noaa
+https://github.com/daneharrigan/streamers
+https://github.com/dgryski/go-entropy
 https://github.com/dgryski/go-gk
 https://github.com/diggs/go-http-stream-reader
 https://github.com/djherbis/stream
@@ -7,6 +12,8 @@ https://github.com/harlow/kinesis-connectors
 https://github.com/hyperboloide/dispatch
 https://github.com/hyperboloide/pipe
 https://github.com/jeffail/benthos
+https://github.com/jianchen2580/log-stream
+https://github.com/k0kubun/thunderbolt
 https://github.com/kho/stream
 https://github.com/klauspost/dedup
 https://github.com/libp2p/go-stream-muxer
@@ -20,10 +27,12 @@ https://github.com/progrium/go-streamkit
 https://github.com/reactivex/rxgo
 https://github.com/rlmcpherson/s3gof3r
 https://github.com/rosscartlidge/stream
+https://github.com/segmentio/throttle
 https://github.com/sensorbee/sensorbee
 https://github.com/streadway/quantile
 https://github.com/tideland/gocells
 https://github.com/trivago/gollum
+https://github.com/twitchscience/kinsumer
 https://github.com/tylertreat/boomfilters
 https://github.com/vividcortex/gohistogram
 https://github.com/vladimirvivien/automi
