@@ -1,4 +1,5 @@
 https://github.com/dgryski/go-gk
+https://github.com/diggs/go-http-stream-reader
 https://github.com/djherbis/stream
 https://github.com/dmcgowan/streams
 https://github.com/drborges/rivers
@@ -15,6 +16,7 @@ https://github.com/nats-io/nats-streaming-server
 https://github.com/netlify/streamer
 https://github.com/originalgremlin/stream
 https://github.com/otoolep/syslog-gollector
+https://github.com/progrium/go-streamkit
 https://github.com/reactivex/rxgo
 https://github.com/rlmcpherson/s3gof3r
 https://github.com/rosscartlidge/stream
@@ -25,3 +27,5 @@ https://github.com/trivago/gollum
 https://github.com/tylertreat/boomfilters
 https://github.com/vividcortex/gohistogram
 https://github.com/vladimirvivien/automi
+https://github.com/zenhotels/astranet
+https://github.com/zenhotels/chanserv
