@@ -21,6 +21,7 @@ The main purpose is reading / learning / teaching.
 - [dmcgowan/streams](https://github.com/dmcgowan/streams) - Go interface for using multiplexed transports <br/> ( 2016-04-09 / 9 commits / 1 stars )
 - [drborges/rivers](https://github.com/drborges/rivers) - Data Stream Processing API for GO <br/> ( 2015-12-02 / 110 commits / 0 stars )
 - [harlow/kinesis-connectors](https://github.com/harlow/kinesis-connectors) - Golang library for processing Kinesis streams data <br/> ( 2016-12-26 / 77 commits / 11 stars )
+- [hyperboloide/dispatch](https://github.com/hyperboloide/dispatch) - Dispatch messages to various pub/sub services with one interface. <br/> ( 2016-11-05 / 11 commits / 0 stars )
 - [hyperboloide/pipe](https://github.com/hyperboloide/pipe) - A simple Go stream processing library that works like Unix pipes <br/> ( 2016-11-05 / 27 commits / 0 stars )
 - [jeffail/benthos](https://github.com/jeffail/benthos) - A persistent stream buffer <br/> ( 2017-01-03 / 119 commits / 3 stars )
 - [kho/stream](https://github.com/kho/stream) - Iteratee and Enumerator in Go <br/> ( 2014-10-14 / 10 commits / 0 stars )
@@ -61,6 +62,7 @@ The main purpose is reading / learning / teaching.
 - [harlow/kinesis-connectors](https://github.com/harlow/kinesis-connectors): 2016-12-26 <br/> Golang library for processing Kinesis streams data
 - [rosscartlidge/stream](https://github.com/rosscartlidge/stream): 2016-11-16 <br/> stream processing in Go
 - [libp2p/go-stream-muxer](https://github.com/libp2p/go-stream-muxer): 2016-11-07 <br/> stream multiplexor interface
+- [hyperboloide/dispatch](https://github.com/hyperboloide/dispatch): 2016-11-05 <br/> Dispatch messages to various pub/sub services with one interface.
 - [hyperboloide/pipe](https://github.com/hyperboloide/pipe): 2016-11-05 <br/> A simple Go stream processing library that works like Unix pipes
 - [netlify/streamer](https://github.com/netlify/streamer): 2016-10-19 <br/> tail files and send them to nats
 - [otoolep/syslog-gollector](https://github.com/otoolep/syslog-gollector): 2016-09-16 <br/> Syslog Collector written in Go, streams to Kafka 0.8
@@ -98,5 +100,6 @@ The main purpose is reading / learning / teaching.
 - [netlify/streamer](https://github.com/netlify/streamer): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [dmcgowan/streams](https://github.com/dmcgowan/streams): 0.06 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [kho/stream](https://github.com/kho/stream): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
+- [hyperboloide/dispatch](https://github.com/hyperboloide/dispatch): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [dgryski/go-gk](https://github.com/dgryski/go-gk): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 <!-- /SIZE_LIST -->

@@ -3,6 +3,7 @@ https://github.com/djherbis/stream
 https://github.com/dmcgowan/streams
 https://github.com/drborges/rivers
 https://github.com/harlow/kinesis-connectors
+https://github.com/hyperboloide/dispatch
 https://github.com/hyperboloide/pipe
 https://github.com/jeffail/benthos
 https://github.com/kho/stream
