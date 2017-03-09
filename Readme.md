@@ -37,6 +37,7 @@ The main purpose is reading / learning / teaching.
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r <br/> ( 2017-02-10 / 273 commits / 104 stars )
 - [rosscartlidge/stream](https://github.com/rosscartlidge/stream) - stream processing in Go <br/> ( 2016-11-16 / 14 commits / 0 stars )
 - [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT <br/> ( 2017-01-05 / 1,626 commits / 17 stars )
+- [streadway/quantile](https://github.com/streadway/quantile) - Space efficient streaming quantile estimator <br/> ( 2015-09-17 / 26 commits / 3 stars )
 - [tideland/gocells](https://github.com/tideland/gocells) - Tideland Go Cells <br/> ( 2017-02-14 / 82 commits / 2 stars )
 - [trivago/gollum](https://github.com/trivago/gollum) - A n:m message multiplexer written in Go <br/> ( 2017-02-20 / 957 commits / 43 stars )
 - [tylertreat/boomfilters](https://github.com/tylertreat/boomfilters) - Probabilistic data structures for processing continuous, unbounded streams. <br/> ( 2017-02-06 / 130 commits / 41 stars )
@@ -70,6 +71,7 @@ The main purpose is reading / learning / teaching.
 - [dmcgowan/streams](https://github.com/dmcgowan/streams): 2016-04-09 <br/> Go interface for using multiplexed transports
 - [klauspost/dedup](https://github.com/klauspost/dedup): 2016-02-19 <br/> Streaming Deduplication Package for Go
 - [drborges/rivers](https://github.com/drborges/rivers): 2015-12-02 <br/> Data Stream Processing API for GO
+- [streadway/quantile](https://github.com/streadway/quantile): 2015-09-17 <br/> Space efficient streaming quantile estimator
 - [kho/stream](https://github.com/kho/stream): 2014-10-14 <br/> Iteratee and Enumerator in Go
 - [dgryski/go-gk](https://github.com/dgryski/go-gk): 2014-08-19 <br/> gk: streaming quantiles 
 <!-- /ACTIVITY_LIST -->
@@ -96,6 +98,7 @@ The main purpose is reading / learning / teaching.
 - [vividcortex/gohistogram](https://github.com/vividcortex/gohistogram): 0.14 MB<br/>  (0.06 MB git / 0.09 MB code)
 - [otoolep/syslog-gollector](https://github.com/otoolep/syslog-gollector): 0.11 MB<br/>  (0.08 MB git / 0.03 MB code)
 - [originalgremlin/stream](https://github.com/originalgremlin/stream): 0.09 MB<br/>  (0.04 MB git / 0.05 MB code)
+- [streadway/quantile](https://github.com/streadway/quantile): 0.08 MB<br/>  (0.07 MB git / 0.01 MB code)
 - [djherbis/stream](https://github.com/djherbis/stream): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
 - [netlify/streamer](https://github.com/netlify/streamer): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [dmcgowan/streams](https://github.com/dmcgowan/streams): 0.06 MB<br/>  (0.04 MB git / 0.02 MB code)
