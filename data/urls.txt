@@ -19,6 +19,7 @@ https://github.com/reactivex/rxgo
 https://github.com/rlmcpherson/s3gof3r
 https://github.com/rosscartlidge/stream
 https://github.com/sensorbee/sensorbee
+https://github.com/streadway/quantile
 https://github.com/tideland/gocells
 https://github.com/trivago/gollum
 https://github.com/tylertreat/boomfilters
