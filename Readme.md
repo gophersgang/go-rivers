@@ -17,6 +17,7 @@ The main purpose is reading / learning / teaching.
 ### Projects
 <!-- PROJECTS_LIST -->
 - [dgryski/go-gk](https://github.com/dgryski/go-gk) - gk: streaming quantiles  <br/> ( 2014-08-19 / 12 commits / 2 stars )
+- [diggs/go-http-stream-reader](https://github.com/diggs/go-http-stream-reader) - Consume long running HTTP streams (e.g. Twitter streams API) in Go <br/> ( 2015-03-20 / 12 commits / 0 stars )
 - [djherbis/stream](https://github.com/djherbis/stream) - Stream bytes to multiple independent Readers #golang <br/> ( 2017-03-03 / 17 commits / 1 stars )
 - [dmcgowan/streams](https://github.com/dmcgowan/streams) - Go interface for using multiplexed transports <br/> ( 2016-04-09 / 9 commits / 1 stars )
 - [drborges/rivers](https://github.com/drborges/rivers) - Data Stream Processing API for GO <br/> ( 2015-12-02 / 110 commits / 0 stars )
@@ -33,6 +34,7 @@ The main purpose is reading / learning / teaching.
 - [netlify/streamer](https://github.com/netlify/streamer) - tail files and send them to nats <br/> ( 2016-10-19 / 15 commits / 3 stars )
 - [originalgremlin/stream](https://github.com/originalgremlin/stream) - Stream processing framework in Go. <br/> ( 2017-03-01 / 3 commits / 0 stars )
 - [otoolep/syslog-gollector](https://github.com/otoolep/syslog-gollector) - Syslog Collector written in Go, streams to Kafka 0.8 <br/> ( 2016-09-16 / 85 commits / 17 stars )
+- [progrium/go-streamkit](https://github.com/progrium/go-streamkit) - High level stream plumbing API in Go <br/> ( 2016-02-08 / 1 commits / 0 stars )
 - [reactivex/rxgo](https://github.com/reactivex/rxgo) - Reactive Extensions for the Go language. <br/> ( 2017-02-27 / 118 commits / 19 stars )
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r <br/> ( 2017-02-10 / 273 commits / 104 stars )
 - [rosscartlidge/stream](https://github.com/rosscartlidge/stream) - stream processing in Go <br/> ( 2016-11-16 / 14 commits / 0 stars )
@@ -43,6 +45,8 @@ The main purpose is reading / learning / teaching.
 - [tylertreat/boomfilters](https://github.com/tylertreat/boomfilters) - Probabilistic data structures for processing continuous, unbounded streams. <br/> ( 2017-02-06 / 130 commits / 41 stars )
 - [vividcortex/gohistogram](https://github.com/vividcortex/gohistogram) - Streaming approximate histograms in Go <br/> ( 2016-08-22 / 46 commits / 16 stars )
 - [vladimirvivien/automi](https://github.com/vladimirvivien/automi) - Composable Stream Processing on top of Go Channels! <br/> ( 2016-12-28 / 140 commits / 17 stars )
+- [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams. <br/> ( 2017-01-31 / 111 commits / 5 stars )
+- [zenhotels/chanserv](https://github.com/zenhotels/chanserv) - Package chanserv is a simple message queue based upon nested Go-lang channels being served using AstraNet. <br/> ( 2016-11-24 / 53 commits / 1 stars )
 <!-- /PROJECTS_LIST -->
 
 ### By Activity
@@ -57,10 +61,12 @@ The main purpose is reading / learning / teaching.
 - [tideland/gocells](https://github.com/tideland/gocells): 2017-02-14 <br/> Tideland Go Cells
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r): 2017-02-10 <br/> Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r
 - [tylertreat/boomfilters](https://github.com/tylertreat/boomfilters): 2017-02-06 <br/> Probabilistic data structures for processing continuous, unbounded streams.
+- [zenhotels/astranet](https://github.com/zenhotels/astranet): 2017-01-31 <br/> A Go (golang) library for managing highly concurrent independent network streams.
 - [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee): 2017-01-05 <br/> Lightweight stream processing engine for IoT
 - [jeffail/benthos](https://github.com/jeffail/benthos): 2017-01-03 <br/> A persistent stream buffer
 - [vladimirvivien/automi](https://github.com/vladimirvivien/automi): 2016-12-28 <br/> Composable Stream Processing on top of Go Channels!
 - [harlow/kinesis-connectors](https://github.com/harlow/kinesis-connectors): 2016-12-26 <br/> Golang library for processing Kinesis streams data
+- [zenhotels/chanserv](https://github.com/zenhotels/chanserv): 2016-11-24 <br/> Package chanserv is a simple message queue based upon nested Go-lang channels being served using AstraNet.
 - [rosscartlidge/stream](https://github.com/rosscartlidge/stream): 2016-11-16 <br/> stream processing in Go
 - [libp2p/go-stream-muxer](https://github.com/libp2p/go-stream-muxer): 2016-11-07 <br/> stream multiplexor interface
 - [hyperboloide/dispatch](https://github.com/hyperboloide/dispatch): 2016-11-05 <br/> Dispatch messages to various pub/sub services with one interface.
@@ -70,8 +76,10 @@ The main purpose is reading / learning / teaching.
 - [vividcortex/gohistogram](https://github.com/vividcortex/gohistogram): 2016-08-22 <br/> Streaming approximate histograms in Go
 - [dmcgowan/streams](https://github.com/dmcgowan/streams): 2016-04-09 <br/> Go interface for using multiplexed transports
 - [klauspost/dedup](https://github.com/klauspost/dedup): 2016-02-19 <br/> Streaming Deduplication Package for Go
+- [progrium/go-streamkit](https://github.com/progrium/go-streamkit): 2016-02-08 <br/> High level stream plumbing API in Go
 - [drborges/rivers](https://github.com/drborges/rivers): 2015-12-02 <br/> Data Stream Processing API for GO
 - [streadway/quantile](https://github.com/streadway/quantile): 2015-09-17 <br/> Space efficient streaming quantile estimator
+- [diggs/go-http-stream-reader](https://github.com/diggs/go-http-stream-reader): 2015-03-20 <br/> Consume long running HTTP streams (e.g. Twitter streams API) in Go
 - [kho/stream](https://github.com/kho/stream): 2014-10-14 <br/> Iteratee and Enumerator in Go
 - [dgryski/go-gk](https://github.com/dgryski/go-gk): 2014-08-19 <br/> gk: streaming quantiles 
 <!-- /ACTIVITY_LIST -->
@@ -85,6 +93,7 @@ The main purpose is reading / learning / teaching.
 - [nats-io/go-nats-streaming](https://github.com/nats-io/go-nats-streaming): 3.56 MB<br/>  (3.39 MB git / 0.18 MB code)
 - [jeffail/benthos](https://github.com/jeffail/benthos): 2.75 MB<br/>  (2.31 MB git / 0.44 MB code)
 - [rosscartlidge/stream](https://github.com/rosscartlidge/stream): 1.93 MB<br/>  (1.90 MB git / 0.03 MB code)
+- [zenhotels/astranet](https://github.com/zenhotels/astranet): 0.68 MB<br/>  (0.30 MB git / 0.38 MB code)
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r): 0.60 MB<br/>  (0.42 MB git / 0.19 MB code)
 - [drborges/rivers](https://github.com/drborges/rivers): 0.44 MB<br/>  (0.34 MB git / 0.10 MB code)
 - [movio/kasper](https://github.com/movio/kasper): 0.41 MB<br/>  (0.29 MB git / 0.12 MB code)
@@ -96,8 +105,11 @@ The main purpose is reading / learning / teaching.
 - [libp2p/go-stream-muxer](https://github.com/libp2p/go-stream-muxer): 0.18 MB<br/>  (0.16 MB git / 0.02 MB code)
 - [harlow/kinesis-connectors](https://github.com/harlow/kinesis-connectors): 0.17 MB<br/>  (0.13 MB git / 0.04 MB code)
 - [vividcortex/gohistogram](https://github.com/vividcortex/gohistogram): 0.14 MB<br/>  (0.06 MB git / 0.09 MB code)
+- [diggs/go-http-stream-reader](https://github.com/diggs/go-http-stream-reader): 0.14 MB<br/>  (0.07 MB git / 0.07 MB code)
 - [otoolep/syslog-gollector](https://github.com/otoolep/syslog-gollector): 0.11 MB<br/>  (0.08 MB git / 0.03 MB code)
+- [zenhotels/chanserv](https://github.com/zenhotels/chanserv): 0.10 MB<br/>  (0.07 MB git / 0.03 MB code)
 - [originalgremlin/stream](https://github.com/originalgremlin/stream): 0.09 MB<br/>  (0.04 MB git / 0.05 MB code)
+- [progrium/go-streamkit](https://github.com/progrium/go-streamkit): 0.09 MB<br/>  (0.04 MB git / 0.05 MB code)
 - [streadway/quantile](https://github.com/streadway/quantile): 0.08 MB<br/>  (0.07 MB git / 0.01 MB code)
 - [djherbis/stream](https://github.com/djherbis/stream): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
 - [netlify/streamer](https://github.com/netlify/streamer): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
