@@ -57,6 +57,7 @@ https://github.com/matttproud/golang_protobuf_extensions
 https://github.com/mechmind/sproc-go
 https://github.com/mendsley/queuedwriter
 https://github.com/movio/kasper
+https://github.com/myntra/pipeline
 https://github.com/nats-io/go-nats-streaming
 https://github.com/nats-io/nats-streaming-server
 https://github.com/netlify/streamer

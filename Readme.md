@@ -51,7 +51,7 @@ The main purpose is reading / learning / teaching.
 - [hyperboloide/dispatch](https://github.com/hyperboloide/dispatch) - Dispatch messages to various pub/sub services with one interface. <br/> ( 2016-11-05 / 11 commits / 0 stars )
 - [hyperboloide/pipe](https://github.com/hyperboloide/pipe) - A simple Go stream processing library that works like Unix pipes <br/> ( 2016-11-05 / 27 commits / 0 stars )
 - [itspage/grpc-streaming](https://github.com/itspage/grpc-streaming) - GRPC streaming in Go <br/> ( 2017-02-11 / 1 commits / 0 stars )
-- [jaderdias/movingmedian](https://github.com/jaderdias/movingmedian) - Package movingmedian computes the median of a windowed stream of data. <br/> ( 2015-07-24 / 54 commits / 2 stars )
+- [jaderdias/movingmedian](https://github.com/jaderdias/movingmedian) - Package movingmedian computes the median of a windowed stream of data. <br/> ( 2017-03-10 / 56 commits / 2 stars )
 - [jeffail/benthos](https://github.com/jeffail/benthos) - A persistent stream buffer <br/> ( 2017-01-03 / 119 commits / 3 stars )
 - [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream) - streaming kafka logs  <br/> ( 2016-12-14 / 5 commits / 0 stars )
 - [jmptrader/go_tcp_relay](https://github.com/jmptrader/go_tcp_relay) - A TCP server which duplicates a received stream of data received from N clients out to an arbitrary number of consumers. <br/> ( 2015-01-16 / 1 commits / 0 stars )
@@ -75,6 +75,7 @@ The main purpose is reading / learning / teaching.
 - [mechmind/sproc-go](https://github.com/mechmind/sproc-go) - The stream processor <br/> ( 2016-01-25 / 11 commits / 0 stars )
 - [mendsley/queuedwriter](https://github.com/mendsley/queuedwriter) - io.Writer wrapper that buffers writes instead of blocking on the underlying stream <br/> ( 2015-04-02 / 8 commits / 0 stars )
 - [movio/kasper](https://github.com/movio/kasper) - Kasper is a Go library for Kafka stream processing <br/> ( 2017-03-03 / 262 commits / 0 stars )
+- [myntra/pipeline](https://github.com/myntra/pipeline) - Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.  <br/> ( 2016-11-16 / 1 commits / 1 stars )
 - [nats-io/go-nats-streaming](https://github.com/nats-io/go-nats-streaming) - NATS Streaming System <br/> ( 2017-03-07 / 305 commits / 15 stars )
 - [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server <br/> ( 2017-03-07 / 556 commits / 37 stars )
 - [netlify/streamer](https://github.com/netlify/streamer) - tail files and send them to nats <br/> ( 2016-10-19 / 15 commits / 3 stars )
@@ -132,6 +133,7 @@ The main purpose is reading / learning / teaching.
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [jaderdias/movingmedian](https://github.com/jaderdias/movingmedian): 2017-03-10 <br/> Package movingmedian computes the median of a windowed stream of data.
 - [serinth/gcp-twitter-stream](https://github.com/serinth/gcp-twitter-stream): 2017-03-10 <br/> twitter -> pubsub -> dataflow -> big query example
 - [rgraphql/magellan](https://github.com/rgraphql/magellan): 2017-03-09 <br/> Real-time streaming GraphQL server for Go.
 - [zph/moresql](https://github.com/zph/moresql): 2017-03-09 <br/> MoreSQL streams changes in MongoDB to Postgres in realtime
@@ -178,6 +180,7 @@ The main purpose is reading / learning / teaching.
 - [zhexuany/esm-filter](https://github.com/zhexuany/esm-filter): 2016-12-13 <br/> filtering streams via MapReduce framework 
 - [olivere/streaming-bulk](https://github.com/olivere/streaming-bulk): 2016-12-07 <br/> PoC for Elastic streaming bulk.
 - [zenhotels/chanserv](https://github.com/zenhotels/chanserv): 2016-11-24 <br/> Package chanserv is a simple message queue based upon nested Go-lang channels being served using AstraNet.
+- [myntra/pipeline](https://github.com/myntra/pipeline): 2016-11-16 <br/> Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output. 
 - [rosscartlidge/stream](https://github.com/rosscartlidge/stream): 2016-11-16 <br/> stream processing in Go
 - [grpc-ecosystem/grpc-simon-says](https://github.com/grpc-ecosystem/grpc-simon-says): 2016-11-09 <br/> Multiplayer Simon Says game using bidirectional gRPC streaming
 - [libp2p/go-stream-muxer](https://github.com/libp2p/go-stream-muxer): 2016-11-07 <br/> stream multiplexor interface
@@ -222,7 +225,6 @@ The main purpose is reading / learning / teaching.
 - [streadway/quantile](https://github.com/streadway/quantile): 2015-09-17 <br/> Space efficient streaming quantile estimator
 - [ejholmes/pgstream](https://github.com/ejholmes/pgstream): 2015-09-05 <br/> Log streaming library for Go
 - [kylef-archive/goreactive](https://github.com/kylef-archive/goreactive): 2015-08-20 <br/> Go library for Functional Reactive Programming, a library for representing and consuming asyncronous data streams with Observables
-- [jaderdias/movingmedian](https://github.com/jaderdias/movingmedian): 2015-07-24 <br/> Package movingmedian computes the median of a windowed stream of data.
 - [technosophos/drift](https://github.com/technosophos/drift): 2015-07-11 <br/> An HTTP/2-based streaming PubSub server written in Go.
 - [facebookgo/runcmd](https://github.com/facebookgo/runcmd): 2015-06-12 <br/> Package runcmd provides a convenience Run function for exec.Cmd which includes the original command along with the output and error streams.
 - [suicidejack/kinesis_producer](https://github.com/suicidejack/kinesis_producer): 2015-06-01 <br/> A high level asynchronous kinesis stream producer that handles buffering and sending to multiple kinesis streams
@@ -271,6 +273,7 @@ The main purpose is reading / learning / teaching.
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r): 0.60 MB<br/>  (0.42 MB git / 0.19 MB code)
 - [suicidejack/kinesis_producer](https://github.com/suicidejack/kinesis_producer): 0.60 MB<br/>  (0.16 MB git / 0.44 MB code)
 - [nsaje/dagger](https://github.com/nsaje/dagger): 0.55 MB<br/>  (0.34 MB git / 0.21 MB code)
+- [myntra/pipeline](https://github.com/myntra/pipeline): 0.47 MB<br/>  (0.22 MB git / 0.25 MB code)
 - [drborges/rivers](https://github.com/drborges/rivers): 0.46 MB<br/>  (0.37 MB git / 0.10 MB code)
 - [movio/kasper](https://github.com/movio/kasper): 0.44 MB<br/>  (0.32 MB git / 0.12 MB code)
 - [cloudfoundry/noaa](https://github.com/cloudfoundry/noaa): 0.36 MB<br/>  (0.24 MB git / 0.11 MB code)
@@ -321,9 +324,9 @@ The main purpose is reading / learning / teaching.
 - [catalyst-zero/cores-go](https://github.com/catalyst-zero/cores-go): 0.06 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [ejholmes/pgstream](https://github.com/ejholmes/pgstream): 0.06 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [netlify/streamer](https://github.com/netlify/streamer): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
+- [jaderdias/movingmedian](https://github.com/jaderdias/movingmedian): 0.06 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [fujiwara/kinesis-tailf](https://github.com/fujiwara/kinesis-tailf): 0.06 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [dmcgowan/streams](https://github.com/dmcgowan/streams): 0.06 MB<br/>  (0.04 MB git / 0.02 MB code)
-- [jaderdias/movingmedian](https://github.com/jaderdias/movingmedian): 0.05 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [bahadley/ssim](https://github.com/bahadley/ssim): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [unixpickle/gobplexer](https://github.com/unixpickle/gobplexer): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [kho/stream](https://github.com/kho/stream): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
