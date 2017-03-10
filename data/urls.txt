@@ -25,6 +25,9 @@ https://github.com/originalgremlin/stream
 https://github.com/otoolep/syslog-gollector
 https://github.com/progrium/go-streamkit
 https://github.com/reactivex/rxgo
+https://github.com/rgraphql/magellan
+https://github.com/rgraphql/rgraphql-demo-server
+https://github.com/rgraphql/soyuz
 https://github.com/rlmcpherson/s3gof3r
 https://github.com/rosscartlidge/stream
 https://github.com/segmentio/throttle
