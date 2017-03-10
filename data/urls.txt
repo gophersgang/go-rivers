@@ -1,3 +1,4 @@
+https://github.com/abcum/syncr
 https://github.com/acquia/fifo2kinesis
 https://github.com/adamdrake/gofstream
 https://github.com/anthonynsimon/iceberg
@@ -35,6 +36,7 @@ https://github.com/itspage/grpc-streaming
 https://github.com/jaderdias/movingmedian
 https://github.com/jeffail/benthos
 https://github.com/jianchen2580/log-stream
+https://github.com/jmptrader/go_tcp_relay
 https://github.com/joernweissenborn/eventual2go
 https://github.com/joernweissenborn/future2go
 https://github.com/joernweissenborn/stream2go
@@ -53,6 +55,7 @@ https://github.com/mateuszdyminski/gomr
 https://github.com/mateuszdyminski/ordered-streams
 https://github.com/matttproud/golang_protobuf_extensions
 https://github.com/mechmind/sproc-go
+https://github.com/mendsley/queuedwriter
 https://github.com/movio/kasper
 https://github.com/nats-io/go-nats-streaming
 https://github.com/nats-io/nats-streaming-server
@@ -63,8 +66,11 @@ https://github.com/ooclab/es
 https://github.com/originalgremlin/stream
 https://github.com/orivej/tcpassembly
 https://github.com/otoolep/syslog-gollector
+https://github.com/pdalinis/kinesisposter
 https://github.com/progrium/go-streamkit
 https://github.com/reactivex/rxgo
+https://github.com/reiver/go-strm
+https://github.com/replaygaming/go-eventsource
 https://github.com/rgraphql/magellan
 https://github.com/rgraphql/rgraphql-demo-server
 https://github.com/rgraphql/soyuz

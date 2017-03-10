@@ -16,6 +16,7 @@ The main purpose is reading / learning / teaching.
 
 ### Projects
 <!-- PROJECTS_LIST -->
+- [abcum/syncr](https://github.com/abcum/syncr) - A rolling, append-only, local and remote data stream library for Go <br/> ( 2017-02-03 / 21 commits / 0 stars )
 - [acquia/fifo2kinesis](https://github.com/acquia/fifo2kinesis) - Continuously reads data from a named pipe and publishes it to a Kinesis stream. <br/> ( 2016-09-19 / 97 commits / 1 stars )
 - [adamdrake/gofstream](https://github.com/adamdrake/gofstream) - Turn a file into a stream (channel) of lines <br/> ( 2016-07-12 / 2 commits / 0 stars )
 - [anthonynsimon/iceberg](https://github.com/anthonynsimon/iceberg) - [WIP] PubSub message streams over TCP <br/> ( 2017-02-07 / 8 commits / 0 stars )
@@ -53,6 +54,7 @@ The main purpose is reading / learning / teaching.
 - [jaderdias/movingmedian](https://github.com/jaderdias/movingmedian) - Package movingmedian computes the median of a windowed stream of data. <br/> ( 2015-07-24 / 54 commits / 2 stars )
 - [jeffail/benthos](https://github.com/jeffail/benthos) - A persistent stream buffer <br/> ( 2017-01-03 / 119 commits / 3 stars )
 - [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream) - streaming kafka logs  <br/> ( 2016-12-14 / 5 commits / 0 stars )
+- [jmptrader/go_tcp_relay](https://github.com/jmptrader/go_tcp_relay) - A TCP server which duplicates a received stream of data received from N clients out to an arbitrary number of consumers. <br/> ( 2015-01-16 / 1 commits / 0 stars )
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go. <br/> ( 2017-03-08 / 69 commits / 0 stars )
 - [joernweissenborn/future2go](https://github.com/joernweissenborn/future2go) - A dart/javscript like Future/Promise API for Go <br/> ( 2015-05-20 / 8 commits / 0 stars )
 - [joernweissenborn/stream2go](https://github.com/joernweissenborn/stream2go) - A dart/javscript like Stream API for Go <br/> ( 2015-05-21 / 5 commits / 0 stars )
@@ -71,6 +73,7 @@ The main purpose is reading / learning / teaching.
 - [mateuszdyminski/ordered-streams](https://github.com/mateuszdyminski/ordered-streams) - Solution for sorting problem of infinite integers streams  <br/> ( 2015-11-05 / 2 commits / 0 stars )
 - [matttproud/golang_protobuf_extensions](https://github.com/matttproud/golang_protobuf_extensions) - Support for streaming Protocol Buffer messages for the Go language (golang). <br/> ( 2016-04-24 / 25 commits / 4 stars )
 - [mechmind/sproc-go](https://github.com/mechmind/sproc-go) - The stream processor <br/> ( 2016-01-25 / 11 commits / 0 stars )
+- [mendsley/queuedwriter](https://github.com/mendsley/queuedwriter) - io.Writer wrapper that buffers writes instead of blocking on the underlying stream <br/> ( 2015-04-02 / 8 commits / 0 stars )
 - [movio/kasper](https://github.com/movio/kasper) - Kasper is a Go library for Kafka stream processing <br/> ( 2017-03-03 / 262 commits / 0 stars )
 - [nats-io/go-nats-streaming](https://github.com/nats-io/go-nats-streaming) - NATS Streaming System <br/> ( 2017-03-07 / 305 commits / 15 stars )
 - [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server <br/> ( 2017-03-07 / 556 commits / 37 stars )
@@ -81,8 +84,11 @@ The main purpose is reading / learning / teaching.
 - [originalgremlin/stream](https://github.com/originalgremlin/stream) - Stream processing framework in Go. <br/> ( 2017-03-01 / 3 commits / 0 stars )
 - [orivej/tcpassembly](https://github.com/orivej/tcpassembly) - Bidirectional TCP stream reassembly for gopacket/tcpassembly <br/> ( 2015-12-13 / 8 commits / 1 stars )
 - [otoolep/syslog-gollector](https://github.com/otoolep/syslog-gollector) - Syslog Collector written in Go, streams to Kafka 0.8 <br/> ( 2016-09-16 / 85 commits / 17 stars )
+- [pdalinis/kinesisposter](https://github.com/pdalinis/kinesisposter) - Read from a Kinesis stream and conditionally perform http posts <br/> ( 2016-12-16 / 3 commits / 0 stars )
 - [progrium/go-streamkit](https://github.com/progrium/go-streamkit) - High level stream plumbing API in Go <br/> ( 2016-02-08 / 1 commits / 0 stars )
 - [reactivex/rxgo](https://github.com/reactivex/rxgo) - Reactive Extensions for the Go language. <br/> ( 2017-02-27 / 118 commits / 19 stars )
+- [reiver/go-strm](https://github.com/reiver/go-strm) - A library that provides an opinionated framework for processing both finite and infinite data tables as streams, for the Go programming language. <br/> ( 2015-10-19 / 14 commits / 0 stars )
+- [replaygaming/go-eventsource](https://github.com/replaygaming/go-eventsource) - Server-sent stream to update game info in real-time <br/> ( 2017-03-02 / 135 commits / 0 stars )
 - [rgraphql/magellan](https://github.com/rgraphql/magellan) - Real-time streaming GraphQL server for Go. <br/> ( 2017-03-09 / 46 commits / 0 stars )
 - [rgraphql/rgraphql-demo-server](https://github.com/rgraphql/rgraphql-demo-server) - Demo of Soyuz + Magellan. <br/> ( 2017-02-12 / 2 commits / 0 stars )
 - [rgraphql/soyuz](https://github.com/rgraphql/soyuz) - Real-time streaming GraphQL client for the web. <br/> ( 2017-03-08 / 58 commits / 0 stars )
@@ -137,6 +143,7 @@ The main purpose is reading / learning / teaching.
 - [k0kubun/thunderbolt](https://github.com/k0kubun/thunderbolt): 2017-03-06 <br/> Twitter client using Streaming API in Go language
 - [djherbis/stream](https://github.com/djherbis/stream): 2017-03-03 <br/> Stream bytes to multiple independent Readers #golang
 - [movio/kasper](https://github.com/movio/kasper): 2017-03-03 <br/> Kasper is a Go library for Kafka stream processing
+- [replaygaming/go-eventsource](https://github.com/replaygaming/go-eventsource): 2017-03-02 <br/> Server-sent stream to update game info in real-time
 - [cloudfoundry/noaa](https://github.com/cloudfoundry/noaa): 2017-03-01 <br/> NOAA is a client library to consume metric and log messages from Doppler.
 - [originalgremlin/stream](https://github.com/originalgremlin/stream): 2017-03-01 <br/> Stream processing framework in Go.
 - [reactivex/rxgo](https://github.com/reactivex/rxgo): 2017-02-27 <br/> Reactive Extensions for the Go language.
@@ -156,6 +163,7 @@ The main purpose is reading / learning / teaching.
 - [tylertreat/boomfilters](https://github.com/tylertreat/boomfilters): 2017-02-06 <br/> Probabilistic data structures for processing continuous, unbounded streams.
 - [chenyoufu/yfstream](https://github.com/chenyoufu/yfstream): 2017-02-06 <br/> single point json event stream process and alert
 - [xtaci/sp](https://github.com/xtaci/sp): 2017-02-05 <br/> Stream Processors on Kafka in Golang
+- [abcum/syncr](https://github.com/abcum/syncr): 2017-02-03 <br/> A rolling, append-only, local and remote data stream library for Go
 - [zenhotels/astranet](https://github.com/zenhotels/astranet): 2017-01-31 <br/> A Go (golang) library for managing highly concurrent independent network streams.
 - [farsightsec/golang-framestream](https://github.com/farsightsec/golang-framestream): 2017-01-30 <br/> Frame Streams implementation in Go
 - [fujiwara/kinesis-tailf](https://github.com/fujiwara/kinesis-tailf): 2017-01-20 <br/> tail -f command for Amazon Kinesis Stream
@@ -163,6 +171,7 @@ The main purpose is reading / learning / teaching.
 - [jeffail/benthos](https://github.com/jeffail/benthos): 2017-01-03 <br/> A persistent stream buffer
 - [vladimirvivien/automi](https://github.com/vladimirvivien/automi): 2016-12-28 <br/> Composable Stream Processing on top of Go Channels!
 - [harlow/kinesis-connectors](https://github.com/harlow/kinesis-connectors): 2016-12-26 <br/> Golang library for processing Kinesis streams data
+- [pdalinis/kinesisposter](https://github.com/pdalinis/kinesisposter): 2016-12-16 <br/> Read from a Kinesis stream and conditionally perform http posts
 - [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream): 2016-12-14 <br/> streaming kafka logs 
 - [kevin-cantwell/logio](https://github.com/kevin-cantwell/logio): 2016-12-13 <br/> A server/client implementation for streaming logs over a network.
 - [mateuszdyminski/gomr](https://github.com/mateuszdyminski/gomr): 2016-12-13 <br/> Simple map-reduce framework based on https://tip.golang.org/pkg/plugin/
@@ -209,6 +218,7 @@ The main purpose is reading / learning / teaching.
 - [mateuszdyminski/am-pipeline](https://github.com/mateuszdyminski/am-pipeline): 2015-11-17 <br/> Simple data pipeline showing how to create full text search over some dataset
 - [bradhe/epee](https://github.com/bradhe/epee): 2015-11-16 <br/> A (very) simple stream processor for golang based on Kafka and protobuf.
 - [mateuszdyminski/ordered-streams](https://github.com/mateuszdyminski/ordered-streams): 2015-11-05 <br/> Solution for sorting problem of infinite integers streams 
+- [reiver/go-strm](https://github.com/reiver/go-strm): 2015-10-19 <br/> A library that provides an opinionated framework for processing both finite and infinite data tables as streams, for the Go programming language.
 - [streadway/quantile](https://github.com/streadway/quantile): 2015-09-17 <br/> Space efficient streaming quantile estimator
 - [ejholmes/pgstream](https://github.com/ejholmes/pgstream): 2015-09-05 <br/> Log streaming library for Go
 - [kylef-archive/goreactive](https://github.com/kylef-archive/goreactive): 2015-08-20 <br/> Go library for Functional Reactive Programming, a library for representing and consuming asyncronous data streams with Observables
@@ -220,8 +230,10 @@ The main purpose is reading / learning / teaching.
 - [joernweissenborn/stream2go](https://github.com/joernweissenborn/stream2go): 2015-05-21 <br/> A dart/javscript like Stream API for Go
 - [joernweissenborn/future2go](https://github.com/joernweissenborn/future2go): 2015-05-20 <br/> A dart/javscript like Future/Promise API for Go
 - [dgryski/go-entropy](https://github.com/dgryski/go-entropy): 2015-04-07 <br/> go-entropy -- exact and streaming entropy estimates
+- [mendsley/queuedwriter](https://github.com/mendsley/queuedwriter): 2015-04-02 <br/> io.Writer wrapper that buffers writes instead of blocking on the underlying stream
 - [diggs/go-http-stream-reader](https://github.com/diggs/go-http-stream-reader): 2015-03-20 <br/> Consume long running HTTP streams (e.g. Twitter streams API) in Go
 - [segmentio/throttle](https://github.com/segmentio/throttle): 2015-02-21 <br/> Tool for throttling JSON streams.
+- [jmptrader/go_tcp_relay](https://github.com/jmptrader/go_tcp_relay): 2015-01-16 <br/> A TCP server which duplicates a received stream of data received from N clients out to an arbitrary number of consumers.
 - [hayeah/gowatch](https://github.com/hayeah/gowatch): 2014-11-29 <br/> Turn file system events into text stream for processing
 - [jprichardson/readline-go](https://github.com/jprichardson/readline-go): 2014-11-25 <br/> golang: Easily read lines from a stream such as `stdin` for a file. Supports either `\n`, `\r\n`, or mixed.
 - [kho/stream](https://github.com/kho/stream): 2014-10-14 <br/> Iteratee and Enumerator in Go
@@ -238,6 +250,7 @@ The main purpose is reading / learning / teaching.
 <!-- SIZE_LIST -->
 - [acquia/fifo2kinesis](https://github.com/acquia/fifo2kinesis): 66.31 MB<br/>  (11.32 MB git / 54.99 MB code)
 - [trivago/gollum](https://github.com/trivago/gollum): 31.08 MB<br/>  (13.64 MB git / 17.44 MB code)
+- [replaygaming/go-eventsource](https://github.com/replaygaming/go-eventsource): 30.69 MB<br/>  (18.48 MB git / 12.21 MB code)
 - [splace/signals](https://github.com/splace/signals): 23.90 MB<br/>  (21.79 MB git / 2.11 MB code)
 - [xtaci/sp](https://github.com/xtaci/sp): 15.41 MB<br/>  (1.41 MB git / 13.99 MB code)
 - [ghthor/filu](https://github.com/ghthor/filu): 11.68 MB<br/>  (5.96 MB git / 5.72 MB code)
@@ -290,6 +303,7 @@ The main purpose is reading / learning / teaching.
 - [technosophos/drift](https://github.com/technosophos/drift): 0.11 MB<br/>  (0.05 MB git / 0.06 MB code)
 - [otoolep/syslog-gollector](https://github.com/otoolep/syslog-gollector): 0.11 MB<br/>  (0.08 MB git / 0.03 MB code)
 - [karrick/gobsp](https://github.com/karrick/gobsp): 0.11 MB<br/>  (0.06 MB git / 0.05 MB code)
+- [abcum/syncr](https://github.com/abcum/syncr): 0.10 MB<br/>  (0.04 MB git / 0.06 MB code)
 - [bradhe/epee](https://github.com/bradhe/epee): 0.10 MB<br/>  (0.06 MB git / 0.04 MB code)
 - [zenhotels/chanserv](https://github.com/zenhotels/chanserv): 0.10 MB<br/>  (0.07 MB git / 0.03 MB code)
 - [originalgremlin/stream](https://github.com/originalgremlin/stream): 0.09 MB<br/>  (0.04 MB git / 0.05 MB code)
@@ -316,18 +330,21 @@ The main purpose is reading / learning / teaching.
 - [vidog/sewer](https://github.com/vidog/sewer): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [kylef-archive/goreactive](https://github.com/kylef-archive/goreactive): 0.05 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [spurge/actionqueuego](https://github.com/spurge/actionqueuego): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
+- [reiver/go-strm](https://github.com/reiver/go-strm): 0.05 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [serinth/gcp-twitter-stream](https://github.com/serinth/gcp-twitter-stream): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [stratexio/protostream](https://github.com/stratexio/protostream): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [hyperboloide/dispatch](https://github.com/hyperboloide/dispatch): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [banyek/binlogstreamer](https://github.com/banyek/binlogstreamer): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [joernweissenborn/stream2go](https://github.com/joernweissenborn/stream2go): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [joernweissenborn/future2go](https://github.com/joernweissenborn/future2go): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
+- [mendsley/queuedwriter](https://github.com/mendsley/queuedwriter): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [urjitbhatia/gopipe](https://github.com/urjitbhatia/gopipe): 0.04 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [orivej/tcpassembly](https://github.com/orivej/tcpassembly): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [dgryski/go-gk](https://github.com/dgryski/go-gk): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [textnode/xml2json](https://github.com/textnode/xml2json): 0.03 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [olivere/streaming-bulk](https://github.com/olivere/streaming-bulk): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [ceejsmith/tick-stream-go](https://github.com/ceejsmith/tick-stream-go): 0.03 MB<br/>  (0.03 MB git / 0.00 MB code)
+- [pdalinis/kinesisposter](https://github.com/pdalinis/kinesisposter): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [upworthy/ktail](https://github.com/upworthy/ktail): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [rgraphql/rgraphql-demo-server](https://github.com/rgraphql/rgraphql-demo-server): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
@@ -336,6 +353,7 @@ The main purpose is reading / learning / teaching.
 - [itspage/grpc-streaming](https://github.com/itspage/grpc-streaming): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [facebookgo/runcmd](https://github.com/facebookgo/runcmd): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [jprichardson/readline-go](https://github.com/jprichardson/readline-go): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
+- [jmptrader/go_tcp_relay](https://github.com/jmptrader/go_tcp_relay): 0.02 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [benlubar/firehose](https://github.com/benlubar/firehose): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [dgryski/go-entropy](https://github.com/dgryski/go-entropy): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [hayeah/gowatch](https://github.com/hayeah/gowatch): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
