@@ -43,6 +43,9 @@ The main purpose is reading / learning / teaching.
 - [otoolep/syslog-gollector](https://github.com/otoolep/syslog-gollector) - Syslog Collector written in Go, streams to Kafka 0.8 <br/> ( 2016-09-16 / 85 commits / 17 stars )
 - [progrium/go-streamkit](https://github.com/progrium/go-streamkit) - High level stream plumbing API in Go <br/> ( 2016-02-08 / 1 commits / 0 stars )
 - [reactivex/rxgo](https://github.com/reactivex/rxgo) - Reactive Extensions for the Go language. <br/> ( 2017-02-27 / 118 commits / 19 stars )
+- [rgraphql/magellan](https://github.com/rgraphql/magellan) - Real-time streaming GraphQL server for Go. <br/> ( 2017-03-09 / 46 commits / 0 stars )
+- [rgraphql/rgraphql-demo-server](https://github.com/rgraphql/rgraphql-demo-server) - Demo of Soyuz + Magellan. <br/> ( 2017-02-12 / 2 commits / 0 stars )
+- [rgraphql/soyuz](https://github.com/rgraphql/soyuz) - Real-time streaming GraphQL client for the web. <br/> ( 2017-03-08 / 58 commits / 0 stars )
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r <br/> ( 2017-02-10 / 273 commits / 104 stars )
 - [rosscartlidge/stream](https://github.com/rosscartlidge/stream) - stream processing in Go <br/> ( 2016-11-16 / 14 commits / 0 stars )
 - [segmentio/throttle](https://github.com/segmentio/throttle) - Tool for throttling JSON streams. <br/> ( 2015-02-21 / 3 commits / 0 stars )
@@ -60,6 +63,8 @@ The main purpose is reading / learning / teaching.
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [rgraphql/magellan](https://github.com/rgraphql/magellan): 2017-03-09 <br/> Real-time streaming GraphQL server for Go.
+- [rgraphql/soyuz](https://github.com/rgraphql/soyuz): 2017-03-08 <br/> Real-time streaming GraphQL client for the web.
 - [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server): 2017-03-07 <br/> NATS Streaming System Server
 - [nats-io/go-nats-streaming](https://github.com/nats-io/go-nats-streaming): 2017-03-07 <br/> NATS Streaming System
 - [twitchscience/kinsumer](https://github.com/twitchscience/kinsumer): 2017-03-06 <br/> Native Go consumer for AWS Kinesis streams.
@@ -71,6 +76,7 @@ The main purpose is reading / learning / teaching.
 - [reactivex/rxgo](https://github.com/reactivex/rxgo): 2017-02-27 <br/> Reactive Extensions for the Go language.
 - [trivago/gollum](https://github.com/trivago/gollum): 2017-02-20 <br/> A n:m message multiplexer written in Go
 - [tideland/gocells](https://github.com/tideland/gocells): 2017-02-14 <br/> Tideland Go Cells
+- [rgraphql/rgraphql-demo-server](https://github.com/rgraphql/rgraphql-demo-server): 2017-02-12 <br/> Demo of Soyuz + Magellan.
 - [bmkessler/streamstats](https://github.com/bmkessler/streamstats): 2017-02-10 <br/> Streaming stats data structures and algorithms for golang
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r): 2017-02-10 <br/> Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r
 - [brentp/irelate](https://github.com/brentp/irelate): 2017-02-09 <br/> Streaming relation (overlap, distance, KNN) of (any number of) sorted genomic interval sets. #golang
@@ -114,13 +120,15 @@ The main purpose is reading / learning / teaching.
 - [rosscartlidge/stream](https://github.com/rosscartlidge/stream): 1.93 MB<br/>  (1.90 MB git / 0.03 MB code)
 - [zenhotels/astranet](https://github.com/zenhotels/astranet): 0.68 MB<br/>  (0.30 MB git / 0.38 MB code)
 - [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r): 0.60 MB<br/>  (0.42 MB git / 0.19 MB code)
-- [drborges/rivers](https://github.com/drborges/rivers): 0.44 MB<br/>  (0.34 MB git / 0.10 MB code)
-- [movio/kasper](https://github.com/movio/kasper): 0.42 MB<br/>  (0.30 MB git / 0.12 MB code)
+- [drborges/rivers](https://github.com/drborges/rivers): 0.46 MB<br/>  (0.37 MB git / 0.10 MB code)
+- [movio/kasper](https://github.com/movio/kasper): 0.44 MB<br/>  (0.32 MB git / 0.12 MB code)
 - [cloudfoundry/noaa](https://github.com/cloudfoundry/noaa): 0.36 MB<br/>  (0.24 MB git / 0.11 MB code)
 - [tideland/gocells](https://github.com/tideland/gocells): 0.35 MB<br/>  (0.19 MB git / 0.16 MB code)
+- [rgraphql/soyuz](https://github.com/rgraphql/soyuz): 0.33 MB<br/>  (0.17 MB git / 0.15 MB code)
 - [vladimirvivien/automi](https://github.com/vladimirvivien/automi): 0.32 MB<br/>  (0.24 MB git / 0.08 MB code)
 - [tylertreat/boomfilters](https://github.com/tylertreat/boomfilters): 0.31 MB<br/>  (0.15 MB git / 0.16 MB code)
 - [reactivex/rxgo](https://github.com/reactivex/rxgo): 0.25 MB<br/>  (0.19 MB git / 0.06 MB code)
+- [rgraphql/magellan](https://github.com/rgraphql/magellan): 0.23 MB<br/>  (0.13 MB git / 0.10 MB code)
 - [klauspost/dedup](https://github.com/klauspost/dedup): 0.20 MB<br/>  (0.09 MB git / 0.11 MB code)
 - [bmkessler/streamstats](https://github.com/bmkessler/streamstats): 0.19 MB<br/>  (0.09 MB git / 0.10 MB code)
 - [libp2p/go-stream-muxer](https://github.com/libp2p/go-stream-muxer): 0.18 MB<br/>  (0.16 MB git / 0.02 MB code)
@@ -141,6 +149,7 @@ The main purpose is reading / learning / teaching.
 - [hyperboloide/dispatch](https://github.com/hyperboloide/dispatch): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [dgryski/go-gk](https://github.com/dgryski/go-gk): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
+- [rgraphql/rgraphql-demo-server](https://github.com/rgraphql/rgraphql-demo-server): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [dgryski/go-entropy](https://github.com/dgryski/go-entropy): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [daneharrigan/streamers](https://github.com/daneharrigan/streamers): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [segmentio/throttle](https://github.com/segmentio/throttle): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
