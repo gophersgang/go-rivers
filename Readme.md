@@ -14,6 +14,11 @@ The main purpose is reading / learning / teaching.
 
     $ make crawl
 
+### Navigation
+
+- [By Size](#by-size)
+- [By Activity](#by-activity)
+
 ### Projects
 <!-- PROJECTS_LIST -->
 - [abcum/syncr](https://github.com/abcum/syncr) - A rolling, append-only, local and remote data stream library for Go <br/> ( 2017-02-03 / 21 commits / 0 stars )

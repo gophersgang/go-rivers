@@ -152,7 +152,8 @@ func (r repoParser) getDescription(doc *goquery.Document) string {
 	if strings.Contains(content, "by creating an account on GitHub") {
 		content = "---"
 	}
-	return content
+
+	return strings.TrimSpace(content)
 }
 
 func (r repoParser) getCommitsCount(doc *goquery.Document) string {
