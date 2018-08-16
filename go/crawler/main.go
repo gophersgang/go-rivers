@@ -161,7 +161,7 @@ func (r repoParser) getCommitsCount(doc *goquery.Document) string {
 }
 
 func (r repoParser) getStarsCount(doc *goquery.Document) string {
-	return r.getSelectorText(doc, ".social-count")
+	return r.getSelectorText(doc, ".starring-container .social-count")
 }
 
 func (r repoParser) getLastcommit(doc *goquery.Document) string {
